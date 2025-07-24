@@ -1,3 +1,3 @@
-Atualmente, sou estudante de Ciência da Computação no 5° periodo, buscando aprimorar meu conhecimento e experiência na área da tecnologia.
+Atualmente, sou estudante de Ciência da Computação no 6° periodo e Dev fullstack com experiência em React.js, Git, SQL e ux/ui design.
 
 
